@@ -19,7 +19,7 @@ Using historical booking data from AirBnB, AirBnB Optimal Price will allow a use
 
 Hosting sites associated with this research:
 
-Heroku - https://dashboard.heroku.com/apps/airbnbrjp/deploy/heroku-git
+Heroku - https://airbnb-rightprice.herokuapp.com/
 
 Other repos associated with this research: 
 
