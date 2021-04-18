@@ -4,6 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 [dev-packages]
 notebook = ">=6.1.5"
+bleach = ">=3.3.0"
+
 [packages]
 dash = "*"
 dash-bootstrap-components = "*"
