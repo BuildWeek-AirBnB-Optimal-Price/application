@@ -5,6 +5,7 @@ verify_ssl = true
 [dev-packages]
 notebook = ">=6.1.5"
 bleach = ">=3.3.0"
+jinja2 = ">=2.11.3"
 
 [packages]
 dash = "*"
