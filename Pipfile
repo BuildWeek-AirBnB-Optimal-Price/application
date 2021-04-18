@@ -6,7 +6,7 @@ verify_ssl = true
 notebook = ">=6.1.5"
 bleach = ">=3.3.0"
 jinja2 = ">=2.11.3"
-
+Pygments = ">=2.7.4"
 [packages]
 dash = "*"
 dash-bootstrap-components = "*"
